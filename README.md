@@ -1,8 +1,6 @@
 # Ford GoBike Analysis
-## by Taiwo Ajagunsegun
 
-
-## Dataset
+## Dataset Overview
 
 > This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 A total of 183,412 bike trips were recorded in the dataset with 16 features ('duration_sec', 'start_time', 'end_time', 'start_station_id', 'start_station_name', 'start_station_latitude', 'start_station_longitude', 'end_station_id', 'end_station_name', 'end_station_latitude', 'end_station_longitude', 'bike_id', 'user_type', 'member_birth_year', 'member_gender', 'bike_share_for_all_trip').
@@ -26,11 +24,10 @@ A total of 183,412 bike trips were recorded in the dataset with 16 features ('du
 
 
 
+
 # Prosper Loan Analysis
-## by Taiwo Ajagunsegun
 
-
-## Dataset
+## Dataset Overview
 
 > The Prosper loan dataset comprises of 113937 loan entries with 81 attributes on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others, from the year 2009-2014. There are two main categories:
 ><ul><li>Borrower information: Basic information of the borrowers such as annual income, employment status, interest rate, loan status, etc.</li>
